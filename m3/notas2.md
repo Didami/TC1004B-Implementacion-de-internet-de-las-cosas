@@ -2,7 +2,7 @@
 
 ---
 
-### [Práctica 2](https://wokwi.com/projects/476415717938416641)
+## [Práctica 2](https://wokwi.com/projects/476415717938416641)
 
 <img src="./images/p2.png" alt="P2 Diagrama" width="1024"/>
 
@@ -50,3 +50,9 @@ void loop() {
     delay(100);
 }
 ```
+
+---
+
+## [Práctica 3](https://www.tinkercad.com/things/d5uHgLKgFrF-iot-practica-1-compuertas-basicas/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=couqF0zXbfOl9l2tdP4Q4IPqzkwJq3RuNEIOgV7b9vs)
+
+<img src="./images/p3.png" alt="P3 Diagrama" width="1024"/>
